@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "AddDeepLButton",
+    "version": "0.0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://copitter.netlify.app/"
+            ],
+            "js": [
+                "jquery-3.5.1.min.js",
+                "content.js"
+            ]
+        }
+    ]
+}
