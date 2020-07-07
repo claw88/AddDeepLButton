@@ -1,5 +1,5 @@
 # AddDeepLButton
-Chrome拡張機能開発の練習として作製
+Chrome拡張機能
 
 ## Screenshot
 ![AddDeepLButton](https://github.com/claw88/AddDeepLButton/blob/screenshot/screenshot.jpg)
